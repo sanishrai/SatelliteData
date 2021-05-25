@@ -1,0 +1,1 @@
+I actually saved every single model that ran in the grid searches. These csv files show each one that was tested and how they performed. Keep in mind, if you run the grid search yourself, it will yield slightly different results depending on how the neural network evolved in training. We may be able to use these csv files to make pgraphs and charts for the presentation.
